@@ -18,7 +18,7 @@ public class Factorial {
 
         // si el numero dado es 5 entonces la formila multiplicara 5x1-5x2-5x3-5x4-5x5
 
-        //para esto esl bucle for es la mejor opcion.
+        //para esto el bucle for es la mejor opcion.
 
         for (int i=1;i<=numero;i++){
             factorial *=i;  //multiplicacion iterativa
