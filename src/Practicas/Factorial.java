@@ -10,7 +10,7 @@ public class Factorial {
     public static void main(String[] args) {
 
         int numero;
-        long factorial = 1;
+        long factorial = 1; //siempre hay que igualarlo a uno porque es una multiplicacion interativa.
 
         // en este caso se utilice el joptionpane pero tambien se puede importar el scanner.
 
