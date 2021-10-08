@@ -16,7 +16,7 @@ public class Factorial {
 
         numero = Integer.parseInt(JOptionPane.showInputDialog("Digite un número: "));
 
-        // si el numero dado es 5 entonces la formila multiplicara 5x1-5x2-5x3-5x4-5x5
+        // si el numero dado es 5 entonces la formula multiplicara 5x1-5x2-5x3-5x4-5x5
 
         //para esto el bucle for es la mejor opcion.
 
